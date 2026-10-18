@@ -3,8 +3,7 @@ This repository contains C programming programs, classwork, and assignments.
 
 
 ## Contents
--Assignments
--Classwork
+-Assignments, Classwork
 
 # Assignment Structure
 Each assignment contains the solutions to all questions
